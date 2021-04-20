@@ -7,6 +7,7 @@ function App() {
       
       <div className="container">
     <b>Welcome Back Home...</b>
+    <p>Deployed on netlify</p>
      
       </div>
  
